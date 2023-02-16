@@ -29,10 +29,10 @@ The game will continue until one player wins or the game ends in a draw. The app
 # Project Structure
 This project is structured as follows:
 
-***Program.cs***: contains the main entry point for the application.
-***Game.cs***: contains data structures for representing the game board and game play.
-***PlayOrder.cs***: contains the game logic and ordering play and players turns.
-***Player.cs***: contains the data structure for representing a player.
+***Program.cs***: contains the main entry point for the application. <br>
+***Game.cs***: contains data structures for representing the game board and game play. <br>
+***PlayOrder.cs***: contains the game logic and ordering play and players turns. <br>
+***Player.cs***: contains the data structure for representing a player. <br>
 
 # Contributing
 If you have any suggestions or find any bugs, please feel free to open an issue or submit a pull request. Contributions are always welcome!
