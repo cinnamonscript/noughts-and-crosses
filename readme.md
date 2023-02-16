@@ -10,11 +10,6 @@ To run this application, you will need to have the following software installed 
 * Visual Studio (version 2019 or later)
 Once you have these dependencies installed, you can download the source code from this repository and open the project file (TicTacToe.sln) in Visual Studio.
 
-Sure, I can provide a sample README file that incorporates the project description and execution instructions:
-
-TicTacToe Game Framework
-This is a reusable framework for two-player board games, such as Tic-tac-toe, Reversi, and Nine Men's Morris. It is implemented using inheritance and abstract classes, and the current implementation is for Tic-tac-toe. The framework allows for human versus human, computer versus human, and two levels of computer play involving random selection or look-ahead scoring functions.
-
 # Features
 * Human versus human gameplay
 * Computer versus human gameplay with two levels of difficulty: Random and Look-ahead bot
